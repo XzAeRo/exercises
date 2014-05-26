@@ -1,8 +1,3 @@
-a = 3
-b = 4
-c = 5
-
-
 sum = 1000
 
 for a in range(1,int(sum/3)):

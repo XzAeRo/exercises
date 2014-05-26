@@ -1,8 +1,3 @@
-
-
-prime_numbers = [2,3,5,7,11,13]
-
-
 def checkPrime(number):
 	if number == 2:
 		return False
