@@ -19,7 +19,6 @@ length = len(prime_numbers)
 while length < 10001:
 	if checkPrime(candidate) == True:
 		length += 1
-		prime_numbers.append(candidate)
 	candidate += 1
 
 print candidate - 1 
